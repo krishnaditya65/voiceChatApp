@@ -1,3 +1,3 @@
-# codershouse-mern
+# voice chat application
 
-Final code: deployment branch
+
